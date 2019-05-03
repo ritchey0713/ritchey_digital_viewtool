@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-@copyright = RitcheyDigitalViewTool::Renderer.copyright("Dj Ritchey", "All Rights Reserved")
+@copyright = RitcheySolutionViewtool::Renderer.copyright("Dj Ritchey", "All Rights Reserved")
 ``` 
 
 ## Development
