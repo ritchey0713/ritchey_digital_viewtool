@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+@copyright = RitcheyDigitalViewTool::Renderer.copyright("Dj Ritchey", "All Rights Reserved")
+``` 
 
 ## Development
 
